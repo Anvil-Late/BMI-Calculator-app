@@ -25,7 +25,6 @@ We'll go through the following steps :
 
 3. The server code
 
---- .class #id 
 
 ## GGPLOT Background
 
@@ -40,7 +39,7 @@ Finally, I add the text with geom_text and I manually set the positions and the 
 
 This code will require to load both the dplyr and ggplot2 packages. We have to remember to include the package load in the server code
 
---- .class #id 
+
 
 ## UI code
 
@@ -48,7 +47,6 @@ The UI code is pretty straight forward :
 
 ![](https://github.com/Anvil-Late/BMI-Calculator-app/blob/master/assets/img/uicode.png?raw=true)
 
---- .class #id 
 
 ## Server code
 
